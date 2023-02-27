@@ -213,7 +213,7 @@ margin:0% 3%;
 
 
 .shareicon{
-    animation: rotate 8s linear infinite;
+    animation: rotate 15s linear infinite;
     }
     
     @keyframes rotate {
